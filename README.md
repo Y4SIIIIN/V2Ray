@@ -1,3 +1,7 @@
+# NOTE
+
+You should use a well-known Iranian domain instead of a direct IP address, so blocking ports 80 and 443 on that website or application becomes less feasible.
+
 # 🌐 Internet Layer Model (Simplified View)
 
 ┌──────────────────────────────────────┐
